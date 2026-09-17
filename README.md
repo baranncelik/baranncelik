@@ -37,7 +37,7 @@
   <a href="mailto:celikbaran4865@gmail.com">
     <img src="https://img.shields.io/badge/Email-celikbaran4865@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://instagram.com/barancelikj" target="_blank">
+  <a href="https://instagram.com/baran_celikj" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-barancelikj-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
