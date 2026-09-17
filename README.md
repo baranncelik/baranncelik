@@ -1,6 +1,3 @@
-CV'ndeki güncel uzmanlık alanlarına (**IoT / Donanım**, **Backend & Sistem**, **Veritabanları**, **Mobil** ve **AI**) göre modernize edilmiş, temiz badge'ler (shields.io) ve logolarla yapılandırılmış GitHub profil `README.md` kodun:
-
-```markdown
 <h1 align="center">Hi 👋, I'm Baran Çelik</h1>
 <h3 align="center">Computer Engineer | IoT Architect & Backend Developer</h3>
 
@@ -119,5 +116,3 @@ CV'ndeki güncel uzmanlık alanlarına (**IoT / Donanım**, **Backend & Sistem**
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=baranncelik&theme=tokyonight&hide_border=true" alt="baranncelik streak" />
 </p>
-
-```
